@@ -31,7 +31,7 @@ Awesome list of open source events in 2018. Create a PR to add any events you wa
 |NERDSummit|Amherst, MA|All Open Source|2018-03-17|2018-01-29|[Apply](http://nerdsummit.org/)|
 |HackWest|Salt Lake City, UT|InfoSec, Testing|2018-03-21|2018-01-01|[Apply](https://hackwest.org/)|
 |SANDcamp|San Diego, CA|Drupal|2018-03-23|2018-03-01|[Apply](https://www.sandcamp.org/)|
-|WordCamp Rotterdam|Rotterdam, The Netherlands|WordPress|2018-03-23|2018-02-28|
+|WordCamp Rotterdam|Rotterdam, The Netherlands|WordPress|2018-03-23|2018-02-28|[Apply](https://2018.rotterdam.wordcamp.org/2017/12/12/call-for-speakers/)|
 |CodePaLouSa|Louisville, KY|All Things SDLC|2018-03-28|01-19-18|[Apply](http://cplspeakers.azurewebsites.net/)|
 |WordCamp Torino|Torino, Italy|WordPress|2018-04-06|2018-02-02|[Apply](https://2018.torino.wordcamp.org/2018/01/10/aperta-la-call-for-speakers-per-wordcamp-torino-2018/)|
 |WordCamp Jacksonville|Jacksonville, FL|WordPress|2018-04-07|2018-02-11|[Apply](https://2018.jacksonville.wordcamp.org/2018/01/12/call-for-speakers/)|
